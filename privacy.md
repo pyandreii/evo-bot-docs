@@ -1,9 +1,9 @@
-POLITICA DE CONFIDENȚIALITATE - EVO BOT
+POLITICA DE CONFIDENȚIALITATE - MOON BOT
 
 Ultima actualizare: 31 Martie 2026
 
 1. DATELE PE CARE LE COLECTĂM
-Pentru a funcționa corect, Evo Bot colectează și stochează următoarele date:
+Pentru a funcționa corect, MOON Bot colectează și stochează următoarele date:
 - ID-ul de utilizator Discord (User ID).
 - ID-ul serverului (Guild ID).
 - Activitatea în chat (numărul de mesaje trimise pentru sistemul de XP).
