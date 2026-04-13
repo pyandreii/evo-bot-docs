@@ -1,6 +1,6 @@
-TERMENI ȘI CONDIȚII DE UTILIZARE - EVO BOT
+TERMENI ȘI CONDIȚII DE UTILIZARE - MOON BOT
 
-Prin utilizarea Evo Bot pe serverul nostru, ești de acord cu următorii termeni:
+Prin utilizarea MOON Bot pe serverul nostru, ești de acord cu următorii termeni:
 
 1. ACCEPTAREA TERMENILOR
 Folosirea oricărei comenzi a botului sau participarea activă pe server (care duce la colectarea de XP) reprezintă acceptarea acestor termeni.
